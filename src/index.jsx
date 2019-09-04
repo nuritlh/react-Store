@@ -11,7 +11,7 @@ import Notfound from './components/NotFound';
 const routing = (
     <Router>
       <div className="ui container" style={{marginTop: '10px'}}> 
-        <ul className="ui three item menu">
+        <ul className="ui four item menu">
           <li className="item">
             <Link to="/">Store</Link>
           </li>
